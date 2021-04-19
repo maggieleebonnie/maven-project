@@ -12,3 +12,4 @@ public class Greeter {
     return String.format("Hello babacar, %s!", someone);
   }
 }
+
